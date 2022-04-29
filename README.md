@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://raw.githubusercontent.com/jaiodoo/jaiodoo/master/47434915.jpg" />
-   <h3 align="center">¡Hey 👋! Soy jaiodoo 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! I'm jaiodoo 👨🏻‍💻</h3>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Senior Software Engineer in Odoo development and JavaScript</em></p>
