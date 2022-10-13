@@ -19,7 +19,7 @@ const jaiodoo = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["React", "AngularJS"],
-            css: ["tailwind", "css vanilla", "bootstrap"]
+            css: ["tailwind", "css vanilla", "bootstrap", "semantic ui"]
         },
         backEnd: {
             js: ["Nodejs", "NextJS"],
