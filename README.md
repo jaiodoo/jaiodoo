@@ -3,7 +3,7 @@
    <h3 align="center">¡Hi 👋! I'm jaiodoo 👨🏻‍💻</h3>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer in Odoo development and JavaScript</em></p>
+<p><em>Senior Software Engineer in Odoo development and React JS</em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/joseinda09947?label=Follow)
 [![Linkedin: josé-angel-inda-herrera-8b5658152](https://img.shields.io/badge/-jainda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-angel-inda-herrera-8b5658152/)](https://www.linkedin.com/in/josé-angel-inda-herrera-8b5658152/)
@@ -14,7 +14,7 @@
 const jaiodoo = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "odoo"],
+    askMeAbout: ["web dev", "tech", "app dev", "odoo", "React JS", "Typescript"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -22,7 +22,7 @@ const jaiodoo = {
             css: ["tailwind", "css vanilla", "bootstrap"]
         },
         backEnd: {
-            js: ["Nodejs"],
+            js: ["Nodejs", "NextJS"],
             python: ["odoo", "Django", "flask"]
         },
         devOps: ["Docker🐳", "Kubernetes", "Nginx", "Traefik"],
